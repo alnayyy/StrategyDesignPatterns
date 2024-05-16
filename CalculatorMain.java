@@ -1,5 +1,3 @@
-package Strategy;
-
 public class CalculatorMain {
     public static void main(String[] args) {
         Calculator program = new Calculator();
